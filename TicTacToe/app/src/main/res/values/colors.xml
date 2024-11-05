@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#6200EE</color>
+    <color name="colorPrimaryDarkLight">#3700B3</color>
+    <color name="colorAccentLight">#03DAC6</color>
+    <color name="windowBackgroundLight">#FFFFFF</color>
+    <color name="textColorPrimaryLight">#000000</color>
+    <color name="textColorSecondaryLight">#757575</color>
+
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryDarkDark">#03DAC6</color>
+    <color name="colorAccentDark">#6200EE</color>
+    <color name="windowBackgroundDark">#121212</color>
+    <color name="textColorPrimaryDark">#FFFFFF</color>
+    <color name="textColorSecondaryDark">#B0B0B0</color>
+</resources>
